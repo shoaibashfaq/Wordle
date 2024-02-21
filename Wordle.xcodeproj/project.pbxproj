@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		48BA4DDD2B867D5C00872FEC /* File.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 48BA4DDC2B867D5B00872FEC /* File.rtf */; };
+		48BA4DDD2B867D5C00872FEC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 48BA4DDC2B867D5B00872FEC /* README.md */; };
 		991CEC0629999E2A0095F025 /* KeyboardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0529999E2A0095F025 /* KeyboardCell.swift */; };
 		991CEC0829999ECD0095F025 /* KeyboardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0729999ECD0095F025 /* KeyboardController.swift */; };
 		9953C05529A40AC700247C5B /* BoardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9953C05429A40AC700247C5B /* BoardController.swift */; };
@@ -46,7 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		48BA4DDC2B867D5B00872FEC /* File.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = File.rtf; sourceTree = "<group>"; };
+		48BA4DDC2B867D5B00872FEC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		991CEC0529999E2A0095F025 /* KeyboardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
 		991CEC0729999ECD0095F025 /* KeyboardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardController.swift; sourceTree = "<group>"; };
 		9953C05429A40AC700247C5B /* BoardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardController.swift; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		996B849B299990A900133037 = {
 			isa = PBXGroup;
 			children = (
-				48BA4DDC2B867D5B00872FEC /* File.rtf */,
+				48BA4DDC2B867D5B00872FEC /* README.md */,
 				996B84A6299990A900133037 /* Wordle */,
 				996B84BD299990AA00133037 /* WordleTests */,
 				996B84C7299990AA00133037 /* WordleUITests */,
@@ -271,7 +271,7 @@
 			files = (
 				996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */,
 				996B84B1299990AA00133037 /* Assets.xcassets in Resources */,
-				48BA4DDD2B867D5C00872FEC /* File.rtf in Resources */,
+				48BA4DDD2B867D5C00872FEC /* README.md in Resources */,
 				996B84AF299990A900133037 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
