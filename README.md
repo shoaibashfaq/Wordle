@@ -3,13 +3,13 @@ Wordle is an app that allows users to guess the word in 5 trys
 
 
 <div>
-    <a href="https://www.loom.com/share/e51bd3b35d4c40f6a7f4e2795caf5d14">
-      <p>Projects: Unit 1 - IOS101 | Intro to iOS Development | CodePath Courses - 23 February 2024 - Watch Video</p>
+    <a href="https://www.loom.com/share/5248255fbd9a43238c3bf2e9cfb77957">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 26 February 2024 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/e51bd3b35d4c40f6a7f4e2795caf5d14">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e51bd3b35d4c40f6a7f4e2795caf5d14-1708745031136-with-play.gif">
+    <a href="https://www.loom.com/share/5248255fbd9a43238c3bf2e9cfb77957">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5248255fbd9a43238c3bf2e9cfb77957-with-play.gif">
     </a>
-</div>
+  </div>
   
 Time spent: **2** hours spent in total
 
